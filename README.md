@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor 👋
 
-Sou cientista social formado pela USP, e atualmente faço mestrado em Ciência Política e graduação em Análise e Desenvolvimento de Sistemas. 
+Sou cientista social formado pela USP, atualmente faço mestrado em Ciência Política e graduação em Análise e Desenvolvimento de Sistemas. 
 
 - 🌱 Atualmente estou estudando Java
 

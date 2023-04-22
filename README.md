@@ -5,7 +5,7 @@ Hi, I'm Victor 🧑‍💻
 
 I'm a back-end developer
 - Bachelor in Social Sciences
-- MSc candidate in Political Science
+- MSc in Political Science
 - Undergrad student in Software Development and Analysis
 + 23 years old
 + Living in São Paulo, Brazil 🇧🇷.

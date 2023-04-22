@@ -1,8 +1,17 @@
-### Olá! Eu sou o Victor 👋
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-Sou cientista social formado pela USP, atualmente faço mestrado em Ciência Política e graduação em Análise e Desenvolvimento de Sistemas. 
+```diff
+Hi, I'm Victor 🧑‍💻
 
-- 🌱 Atualmente estou estudando Java
+I'm a back-end developer
+- Bachelor in Social Sciences
+- MSc candidate in Political Science
+- Undergrad student in Software Development and Analysis
++ 23 years old
++ Living in São Paulo, Brazil 🇧🇷.
+# 📖 Currently learning Java
+```
 
 <div> 
   <a href = "mailto:victorpugli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
